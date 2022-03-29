@@ -1,0 +1,2 @@
+# qt-crypto-rates
+The given problem requires us to develop a QT program that displays conversion rate information about cryptocurrencies. The main purpose is to display the conversion rate between cryptocurrencies and USD/EUR/GBP. The list of cryptocurrencies that will be displayed should be read from a file, the name of which is obtained from the environment variable named MYCRYPTOCONVERT. Then the http request is sent to get the information about the conversion rate of the crypto currencies provided in the file.
